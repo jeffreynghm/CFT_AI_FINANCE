@@ -1,0 +1,1238 @@
+Duke Energy	Duke Energy
+NYSE	NYSE
+DUK	DUK
+Mark One	Mark One
+WASHINGTON	WASHINGTON
+THE SECURITIES EXCHANGE ACT OF	THE SECURITIES EXCHANGE ACT OF
+State of Incorporation or Organization	State of Incorporation or Organization
+Delaware	Delaware
+South Church	South Church
+Charlotte	Charlotte
+North Carolina	North Carolina
+LLC	LLC
+Raleigh	Raleigh
+FLORIDA	FLORIDA
+Florida	Florida
+First Avenue	First Avenue
+St. Petersburg	St. Petersburg
+Ohio	Ohio
+East Fourth Street	East Fourth Street
+Cincinnati	Cincinnati
+Indiana	Indiana
+East Main Street Plainfield	East Main Street Plainfield
+Drive Charlotte	Drive Charlotte
+Duke Energy Corporation	Duke Energy Corporation
+New York Stock Exchange LLC	New York Stock Exchange LLC
+1/1,000th	1/1,000th
+New York Stock Exchange LLC  Indicate	New York Stock Exchange LLC  Indicate
+Carolinas, LLC	Carolinas, LLC
+Duke Energy Carolinas	Duke Energy Carolinas
+Progress Energy, Inc.	Progress Energy, Inc.
+Progress Energy	Progress Energy
+Duke Energy Progress	Duke Energy Progress
+Duke Energy Florida	Duke Energy Florida
+Duke Energy Ohio, Inc.	Duke Energy Ohio, Inc.
+Duke Energy Indiana, LLC	Duke Energy Indiana, LLC
+Duke Energy Indiana	Duke Energy Indiana
+Piedmont Natural Gas Company, Inc.	Piedmont Natural Gas Company, Inc.
+Piedmont	Piedmont
+Interactive Data File	Interactive Data File
+Common Stock	Common Stock
+General Instructions I(1)(a	General Instructions I(1)(a
+General Instructions I(2	General Instructions I(2
+Deloitte & Touche LLP Auditor	Deloitte & Touche LLP Auditor
+NC	NC
+DUKE ENERGY CAROLINAS  PROGRESS ENERGY	DUKE ENERGY CAROLINAS  PROGRESS ENERGY
+DUKE ENERGY INDIANA	DUKE ENERGY INDIANA
+PIEDMONT  RISK FACTORS	PIEDMONT  RISK FACTORS
+UNRESOLVED	UNRESOLVED
+MINE SAFETY DISCLOSURES  MARKET FOR	MINE SAFETY DISCLOSURES  MARKET FOR
+SECURITY OWNERSHIP OF	SECURITY OWNERSHIP OF
+E-1 E-2	E-1 E-2
+CAUTIONARY STATEMENT REGARDING FORWARD	CAUTIONARY STATEMENT REGARDING FORWARD
+State	State
+United States	United States
+SEC	SEC
+ACP	ACP
+AFS  AFUDC	AFS  AFUDC
+AMI	AMI
+AOCI	AOCI
+ARO  Audit Committee	ARO  Audit Committee
+Belews Creek  Bison  Board of Directors	Belews Creek  Bison  Board of Directors
+Brunswick	Brunswick
+CCR	CCR
+White Springs Agricultural Chemicals, Inc.	White Springs Agricultural Chemicals, Inc.
+PSC Phosphate and NUCOR Steel	PSC Phosphate and NUCOR Steel
+Inc.	Inc.
+Atlantic Coast Pipeline, LLC	Atlantic Coast Pipeline, LLC
+Dominion	Dominion
+Advanced Metering Infrastructure  Alternative Minimum Tax  Accumulated Other Comprehensive Income (Loss)  Asset Retirement Obligation  Audit Committee of the Board of Directors	Advanced Metering Infrastructure  Alternative Minimum Tax  Accumulated Other Comprehensive Income (Loss)  Asset Retirement Obligation  Audit Committee of the Board of Directors
+Belews Creek Steam Station  Bison Insurance Company Limited	Belews Creek Steam Station  Bison Insurance Company Limited
+Duke Energy Board of Directors	Duke Energy Board of Directors
+Brunswick Nuclear Plant  Cardinal Pipeline Company	Brunswick Nuclear Plant  Cardinal Pipeline Company
+Catawba Nuclear Station	Catawba Nuclear Station
+Capital Expenditure Program	Capital Expenditure Program
+Rider  Cinergy Corp.	Rider  Cinergy Corp.
+Citrus County CC  Citrus County Combined Cycle Facility  CO 2	Citrus County CC  Citrus County Combined Cycle Facility  CO 2
+Carbon Dioxide	Carbon Dioxide
+North Carolina Coal Ash Management Act	North Carolina Coal Ash Management Act
+Commercial Renewables Disposal Groups  Commercial Renewables	Commercial Renewables Disposal Groups  Commercial Renewables
+Carolina Long Bay	Carolina Long Bay
+CPCN	CPCN
+CRC	CRC
+Crystal River Unit	Crystal River Unit
+DATC	DATC
+Certificate of Public Convenience	Certificate of Public Convenience
+Necessity  Cinergy Receivables Company LLC	Necessity  Cinergy Receivables Company LLC
+Crystal River	Crystal River
+Duke Energy Florida Receivables	Duke Energy Florida Receivables
+Deloitte & Touche LLP	Deloitte & Touche LLP
+Deloitte Touche Tohmatsu	Deloitte Touche Tohmatsu
+Duke Energy Progress Receivables	Duke Energy Progress Receivables
+Duke Energy Receivables Finance Company	Duke Energy Receivables Finance Company
+DOE	DOE
+Dominion  Dth  Duke Energy	Dominion  Dth  Duke Energy
+Energy Indiana  Duke Energy Kentucky  Duke Energy	Energy Indiana  Duke Energy Kentucky  Duke Energy
+EPA	EPA
+ETR	ETR
+EU&I  Exchange Act	EU&I  Exchange Act
+FASB	FASB
+FERC	FERC
+FTR	FTR
+GHG  GIC	GHG  GIC
+GU&I	GU&I
+IMPA  IMR	IMPA  IMR
+IRP	IRP
+IRS	IRS
+ISO	ISO
+ITC	ITC
+IURC  Investment Trusts	IURC  Investment Trusts
+KO Transmission	KO Transmission
+U.S. Department of Energy  Dominion Energy, Inc.	U.S. Department of Energy  Dominion Energy, Inc.
+Dekatherms  Duke Energy Corporation	Dekatherms  Duke Energy Corporation
+Carolinas	Carolinas
+Duke Energy Kentucky	Duke Energy Kentucky
+East Bend Generating Station  Excess	East Bend Generating Station  Excess
+Energy	Energy
+U.S. Environmental Protection Agency	U.S. Environmental Protection Agency
+Electric Utilities	Electric Utilities
+Infrastructure  Securities Exchange Act	Infrastructure  Securities Exchange Act
+Financial Accounting Standards Board	Financial Accounting Standards Board
+Federal Energy Regulatory Commission	Federal Energy Regulatory Commission
+Florida Public Service Commission  Financial	Florida Public Service Commission  Financial
+Basic EPS Available	Basic EPS Available
+Greenhouse Gas  GIC Private Limited	Greenhouse Gas  GIC Private Limited
+Singapore	Singapore
+U.S.	U.S.
+Gas Utilities	Gas Utilities
+Hardy Storage Company	Hardy Storage Company
+Shearon Harris Nuclear Plant	Shearon Harris Nuclear Plant
+The Energy Solutions for	The Energy Solutions for
+House	House
+Bill 951	Bill 951
+Indiana Municipal Power Agency  Integrity Management Rider  Integrated Resource Plans  Internal Revenue Service	Indiana Municipal Power Agency  Integrity Management Rider  Integrated Resource Plans  Internal Revenue Service
+Indiana Utility Regulatory Commission	Indiana Utility Regulatory Commission
+KO Transmission Company	KO Transmission Company
+Kentucky Public Service Commission	Kentucky Public Service Commission
+McGuire	McGuire
+MGP  MGP Settlement  MISO	MGP  MGP Settlement  MISO
+MTBE	MTBE
+MW  MWh	MW  MWh
+NCDEQ	NCDEQ
+NDTF  Limited Liability Company	NDTF  Limited Liability Company
+McGuire Nuclear Station  Manufactured	McGuire Nuclear Station  Manufactured
+Stipulation and Recommendation	Stipulation and Recommendation
+Midcontinent Independent System Operator, Inc.	Midcontinent Independent System Operator, Inc.
+Megawatt  Megawatt-hour	Megawatt  Megawatt-hour
+North Carolina Department of Environmental Quality	North Carolina Department of Environmental Quality
+North Carolina Utilities Commission	North Carolina Utilities Commission
+New Source Review  Clean Air Act	New Source Review  Clean Air Act
+NMC	NMC
+NOL	NOL
+NPNS	NPNS
+NRC	NRC
+Oconee	Oconee
+PGA	PGA
+PHMSA	PHMSA
+Piedmont  Pine Needle  Pioneer  PJM	Piedmont  Pine Needle  Pioneer  PJM
+PPA  Progress Energy	PPA  Progress Energy
+PSCSC	PSCSC
+PTC	PTC
+PUCO	PUCO
+PURPA	PURPA
+QF  REC  Relative TSR  Robinson  ROE	QF  REC  Relative TSR  Robinson  ROE
+ROU  RSU	ROU  RSU
+National Methanol Company  Net	National Methanol Company  Net
+U.S. Nuclear Regulatory Commission	U.S. Nuclear Regulatory Commission
+New York Stock Exchange	New York Stock Exchange
+Oconee Nuclear Station	Oconee Nuclear Station
+Ohio Valley Electric Corporation	Ohio Valley Electric Corporation
+Gas Adjustments  Pipeline and Hazardous Materials Safety Administration	Gas Adjustments  Pipeline and Hazardous Materials Safety Administration
+Pine Needle LNG Company	Pine Needle LNG Company
+Pioneer Transmission	Pioneer Transmission
+PJM Interconnection	PJM Interconnection
+Piedmont Municipal Power Agency  Post	Piedmont Municipal Power Agency  Post
+Purchase Power Agreement  Progress Energy, Inc.  Public Service Commission	Purchase Power Agreement  Progress Energy, Inc.  Public Service Commission
+Ohio  Public Utility Regulatory Policies Act	Ohio  Public Utility Regulatory Policies Act
+Robinson Nuclear Plant  Return	Robinson Nuclear Plant  Return
+Restricted Stock Unit	Restricted Stock Unit
+RTO	RTO
+Sabal Trail  SAFSTOR	Sabal Trail  SAFSTOR
+S&P  Regional Transmission Organization	S&P  Regional Transmission Organization
+Sabal Trail Transmission	Sabal Trail Transmission
+Securities and Exchange Commission	Securities and Exchange Commission
+Standard & Poor’s Rating Services  State	Standard & Poor’s Rating Services  State
+IURC	IURC
+TPUC	TPUC
+Sutton	Sutton
+TPUC  TSR	TPUC  TSR
+W.S. Lee CC  WVPA  L.V. Sutton	W.S. Lee CC  WVPA  L.V. Sutton
+Tennessee Public Utility Commission	Tennessee Public Utility Commission
+Wabash Valley Power Association, Inc.	Wabash Valley Power Association, Inc.
+General  Duke Energy	General  Duke Energy
+Subsidiary Registrants	Subsidiary Registrants
+The Duke Energy Registrants	The Duke Energy Registrants
+Duke Energy’s	Duke Energy’s
+Duke Energy's	Duke Energy's
+INFRASTRUCTURE	INFRASTRUCTURE
+Southeast	Southeast
+Midwest	Midwest
+GIC	GIC
+Duke Energy Indiana Holdco, LLC	Duke Energy Indiana Holdco, LLC
+American Transmission Company	American Transmission Company
+Path 15	Path 15
+California	California
+Pioneer	Pioneer
+North America	North America
+Residential General service Industrial Total	Residential General service Industrial Total
+Competition  Retail	Competition  Retail
+EU&I	EU&I
+Energy Capacity and Resources	Energy Capacity and Resources
+Natural Gas and Fuel Oil  Natural	Natural Gas and Fuel Oil  Natural
+Infrastructure	Infrastructure
+Coal	Coal
+Central Appalachia	Central Appalachia
+Northern Appalachia	Northern Appalachia
+Kentucky	Kentucky
+Illinois	Illinois
+West Virginia	West Virginia
+Pennsylvania	Pennsylvania
+MW	MW
+Represents	Represents
+QFs.	QFs.
+Inventory	Inventory
+RCRA	RCRA
+South Carolina	South Carolina
+Duke Energy Carolinas'	Duke Energy Carolinas'
+Duke Energy Progress’	Duke Energy Progress’
+AROs	AROs
+Notes 4	Notes 4
+Regulatory Matters	Regulatory Matters
+Nuclear Matters	Nuclear Matters
+The Crystal River Unit	The Crystal River Unit
+NDTF	NDTF
+$  Decommissioning	$  Decommissioning
+Yucca Mountain	Yucca Mountain
+Nevada	Nevada
+Harris	Harris
+Catawba	Catawba
+Robinson	Robinson
+SAFSTOR	SAFSTOR
+ONS	ONS
+Unit Duke Energy	Unit Duke Energy
+Oconee Units	Oconee Units
+Energy Progress Brunswick Unit	Energy Progress Brunswick Unit
+Harris Robinson  Year	Harris Robinson  Year
+Regulation  State	Regulation  State
+Kentucky Electric Rate Case	Kentucky Electric Rate Case
+Kentucky Electric Rate Case Duke Energy Progress	Kentucky Electric Rate Case Duke Energy Progress
+Regulatory Body	Regulatory Body
+PJM	PJM
+MISO	MISO
+Global Climate Change	Global Climate Change
+Tennessee	Tennessee
+Nashville	Nashville
+Natural Gas for Retail Distribution	Natural Gas for Retail Distribution
+Competition  GU&I	Competition  GU&I
+Natural Gas Investments	Natural Gas Investments
+Sabal Trail	Sabal Trail
+Sabal Trail Phase	Sabal Trail Phase
+Alabama	Alabama
+Georgia	Georgia
+Citrus County CC	Citrus County CC
+Dth	Dth
+Dominion Energy	Dominion Energy
+Cardinal	Cardinal
+NCUC	NCUC
+Pine Needle	Pine Needle
+Hardy Storage	Hardy Storage
+Hardy	Hardy
+Hampshire	Hampshire
+KO Transmission's	KO Transmission's
+Tennessee Gas Pipeline	Tennessee Gas Pipeline
+Columbia Gas Transmission, LLC	Columbia Gas Transmission, LLC
+See Notes 4,	See Notes 4,
+Unconsolidated Affiliates	Unconsolidated Affiliates
+Piedmont 2020	Piedmont 2020
+North Carolina Natural Gas Base Rate Case	North Carolina Natural Gas Base Rate Case
+South Carolina Rate Stabilization Adjustment Filing Duke Energy	South Carolina Rate Stabilization Adjustment Filing Duke Energy
+RSA	RSA
+Federal  GU&I	Federal  GU&I
+Bison	Bison
+The Duke Energy Foundation	The Duke Energy Foundation
+Jubail	Jubail
+Saudi Arabia	Saudi Arabia
+Human Capital Management  Governance	Human Capital Management  Governance
+Human Resources	Human Resources
+Our Board of Directors	Our Board of Directors
+Employee Resource Groups	Employee Resource Groups
+ERG	ERG
+Operational Excellence	Operational Excellence
+TICR	TICR
+OSHA	OSHA
+Lynn J. Good  Brian D. Savoy	Lynn J. Good  Brian D. Savoy
+Kodwo Ghartey-Tagoe  T. Preston Gillespie  R. Alexander Glenn  Dhiaa M. Jamil	Kodwo Ghartey-Tagoe  T. Preston Gillespie  R. Alexander Glenn  Dhiaa M. Jamil
+Julia S. Janson  Cynthia S. Lee  Ronald R. Reising	Julia S. Janson  Cynthia S. Lee  Ronald R. Reising
+Louis E. Renjel  Harry K. Sideris	Louis E. Renjel  Harry K. Sideris
+Steven K. Young	Steven K. Young
+Good	Good
+Savoy	Savoy
+Executive	Executive
+Business Transformation and Technology	Business Transformation and Technology
+Controller	Controller
+Commercial Power	Commercial Power
+Corporate	Corporate
+Ghartey-Tagoe	Ghartey-Tagoe
+Duke Energy’s Legal Department	Duke Energy’s Legal Department
+Federal Regulatory Legal Support	Federal Regulatory Legal Support
+Enterprise Operational Excellence	Enterprise Operational Excellence
+Gillespie	Gillespie
+Glenn	Glenn
+Jamil	Jamil
+Regulated Generation and Transmission	Regulated Generation and Transmission
+Duke Energy Nuclear	Duke Energy Nuclear
+Janson	Janson
+External Affairs	External Affairs
+Carolinas Region	Carolinas Region
+Lee	Lee
+Investor Relations	Investor Relations
+Corporation	Corporation
+Reising	Reising
+External Affairs and Communications	External Affairs and Communications
+Renjel	Renjel
+Federal Government and Corporate Affairs	Federal Government and Corporate Affairs
+Federal Government Affairs	Federal Government Affairs
+Strategic Infrastructure	Strategic Infrastructure
+CSX Corp	CSX Corp
+Customer Experience,	Customer Experience,
+Solutions and Services	Solutions and Services
+Sideris	Sideris
+Environmental Health and Safety	Environmental Health and Safety
+Power Generations	Power Generations
+Fossil/Hydro Operations	Fossil/Hydro Operations
+Young	Young
+BUSINESS  Environmental Matters	BUSINESS  Environmental Matters
+State Implementation Plans	State Implementation Plans
+The Comprehensive Environmental Response, Compensation and Liability Act	The Comprehensive Environmental Response, Compensation and Liability Act
+The National Environmental Policy Act	The National Environmental Policy Act
+Coal Ash Act	Coal Ash Act
+The Toxic Substances Control Act	The Toxic Substances Control Act
+GHG	GHG
+DUKE ENERGY CAROLINAS  Duke Energy Carolinas	DUKE ENERGY CAROLINAS  Duke Energy Carolinas
+Progress Energy’s	Progress Energy’s
+DUKE ENERGY INDIANA  Duke Energy Indiana	DUKE ENERGY INDIANA  Duke Energy Indiana
+Duke Energy Indiana's	Duke Energy Indiana's
+Duke Energy Indiana’s	Duke Energy Indiana’s
+Duke Energy India	Duke Energy India
+PIEDMONT	PIEDMONT
+The Duke Energy Registrants’	The Duke Energy Registrants’
+Duke Energy Progress'	Duke Energy Progress'
+QFs	QFs
+The Duke Energy Registrants'	The Duke Energy Registrants'
+Cyberattacks	Cyberattacks
+Cybersecurity	Cybersecurity
+North America's	North America's
+Transportation Security Administration	Transportation Security Administration
+TSA	TSA
+Duke Energy Registrant	Duke Energy Registrant
+Board	Board
+The Subsidiary Registrants	The Subsidiary Registrants
+Master Credit Facility	Master Credit Facility
+U.S. Information	U.S. Information
+Duke Energy Registrants'	Duke Energy Registrants'
+Facility Duke Energy	Facility Duke Energy
+Oconee McGuire	Oconee McGuire
+Belews	Belews
+Marshall J.E. Rogers	Marshall J.E. Rogers
+Lincoln Combustion Turbine	Lincoln Combustion Turbine
+Allen Rockingham	Allen Rockingham
+W.S. Lee	W.S. Lee
+Clemson	Clemson
+Jocassee	Jocassee
+Cowans Ford	Cowans Ford
+Facility Duke Energy Progress Brunswick Harris	Facility Duke Energy Progress Brunswick Harris
+Roxboro	Roxboro
+Wayne County	Wayne County
+Mayo L.V.	Mayo L.V.
+Asheville CC Asheville	Asheville CC Asheville
+Darlington	Darlington
+L.V. Sutton	L.V. Sutton
+CT Blewett CT Walters	CT Blewett CT Walters
+Asheville	Asheville
+Osprey CC DeBary CT Tiger Bay CC Bayboro	Osprey CC DeBary CT Tiger Bay CC Bayboro
+Suwannee River CT University of Florida CoGen	Suwannee River CT University of Florida CoGen
+Trenton Battery Micanopy Energy Storage Jennings Battery Cape San Blas Battery Total	Trenton Battery Micanopy Energy Storage Jennings Battery Cape San Blas Battery Total
+Beckjord Battery Storage	Beckjord Battery Storage
+Gibson Cayuga Edwardsport	Gibson Cayuga Edwardsport
+Madison CT Wheatland	Madison CT Wheatland
+Noblesville	Noblesville
+Henry County	Henry County
+Cayuga	Cayuga
+Purdue CHP Markland	Purdue CHP Markland
+Camp Atterbury Battery Nabb Battery Crane Battery	Camp Atterbury Battery Nabb Battery Crane Battery
+FL	FL
+KY	KY
+OH	OH
+Type Total Electric Utilities	Type Total Electric Utilities
+Plant Type  Nuclear Fossil Hydro Renewable	Plant Type  Nuclear Fossil Hydro Renewable
+MW Capacity	MW Capacity
+North Carolina Municipal Power Agency	North Carolina Municipal Power Agency
+NCEMC	NCEMC
+Gibson Station Units 1	Gibson Station Units 1
+IMPA	IMPA
+Cayuga Internal Combustion	Cayuga Internal Combustion
+Electric Transmission Lines Miles	Electric Transmission Lines Miles
+Miles	Miles
+Electric Distribution Lines Miles	Electric Distribution Lines Miles
+Duke Energy Carolinas’	Duke Energy Carolinas’
+Duke Energy Florida's	Duke Energy Florida's
+First Mortgage Bonds	First Mortgage Bonds
+MTBE Litigation	MTBE Litigation
+Maryland	Maryland
+Baltimore City Circuit Court	Baltimore City Circuit Court
+Duke Energy Merchants	Duke Energy Merchants
+District Court	District Court
+Discovery	Discovery
+MINE SAFETY DISCLOSURES	MINE SAFETY DISCLOSURES
+Securities Authorized for Issuance Under Equity Compensation Plans	Securities Authorized for Issuance Under Equity Compensation Plans
+Unregistered Sales of Equity Securities and Use of Proceeds	Unregistered Sales of Equity Securities and Use of Proceeds
+TSR	TSR
+Philadelphia	Philadelphia
+Certification  Duke Energy	Certification  Duke Energy
+SELECTED FINANCIAL DATA	SELECTED FINANCIAL DATA
+MD&A	MD&A
+Duke Energy Carolinas, LLC	Duke Energy Carolinas, LLC
+Duke Energy Progress, LLC	Duke Energy Progress, LLC
+Duke Energy Florida, LLC	Duke Energy Florida, LLC
+Generating Cleaner Energy	Generating Cleaner Energy
+IRPs	IRPs
+Wilmington	Wilmington
+North Carolina's	North Carolina's
+Carbon Plan	Carbon Plan
+Modernizing the Power Grid and Natural Gas Infrastructure	Modernizing the Power Grid and Natural Gas Infrastructure
+Ford	Ford
+F-150 Lightning	F-150 Lightning
+Accenture	Accenture
+Microsoft	Microsoft
+Avanade	Avanade
+Commodity	Commodity
+Constructive Regulatory and Legislative	Constructive Regulatory and Legislative
+PBR	PBR
+Duke Energy Kentucky's	Duke Energy Kentucky's
+Duke Energy Ohio's	Duke Energy Ohio's
+TDSIC	TDSIC
+SEEM	SEEM
+Customer Satisfaction	Customer Satisfaction
+Customer Connect	Customer Connect
+J.D. Power	J.D. Power
+Safety and Reliability	Safety and Reliability
+Moore County	Moore County
+EEI	EEI
+Matters Impacting Future	Matters Impacting Future
+The Commercial Renewables Disposal Groups	The Commercial Renewables Disposal Groups
+Texas	Texas
+Regulated	Regulated
+Operations	Operations
+Equity	Equity
+Discontinued Operations	Discontinued Operations
+INFRASTRUCTURE  Electric Utilities	INFRASTRUCTURE  Electric Utilities
+Piedmont Local Distribution Company	Piedmont Local Distribution Company
+MCF	MCF
+Ohio Capital Expenditure Program	Ohio Capital Expenditure Program
+MGP	MGP
+CEP	CEP
+INFRASTRUCTURE  Interest Expense	INFRASTRUCTURE  Interest Expense
+CEP Rider	CEP Rider
+737	737
+General Instruction	General Instruction
+Operation	Operation
+Joint	Joint
+DUKE ENERGY CAROLINAS  Partially	DUKE ENERGY CAROLINAS  Partially
+South Carolina Supreme Court	South Carolina Supreme Court
+OHIO	OHIO
+Operating Expenses Fuel	Operating Expenses Fuel
+Electric  Natural Gas	Electric  Natural Gas
+Network Integration Transmission Services	Network Integration Transmission Services
+MD&A  CRITICAL ACCOUNTING	MD&A  CRITICAL ACCOUNTING
+ESTIMATES  CRITICAL ACCOUNTING POLICIES	ESTIMATES  CRITICAL ACCOUNTING POLICIES
+ESTIMATES  Preparation	ESTIMATES  Preparation
+Regulated Operations Accounting	Regulated Operations Accounting
+Goodwill Impairment Assessments  Duke Energy	Goodwill Impairment Assessments  Duke Energy
+U.S. Treasury	U.S. Treasury
+WACC	WACC
+ESTIMATES  Duke Energy	ESTIMATES  Duke Energy
+Goodwill	Goodwill
+Commercial Renewables Disposal Groups	Commercial Renewables Disposal Groups
+IRA	IRA
+MD&A  LIQUIDITY	MD&A  LIQUIDITY
+Electric Generation Electric Transmission Electric Distribution Environmental	Electric Generation Electric Transmission Electric Distribution Environmental
+Power  Fuel	Power  Fuel
+Engineering, Procurement	Engineering, Procurement
+VIEs	VIEs
+Credit Facilities	Credit Facilities
+Credit Ratings	Credit Ratings
+Moody’s Investors Service, Inc.	Moody’s Investors Service, Inc.
+S&P	S&P
+Duke Energy Registrants	Duke Energy Registrants
+Duke Energy Corporation Issuer Credit Rating	Duke Energy Corporation Issuer Credit Rating
+Moody's Stable	Moody's Stable
+Baa3	Baa3
+BBB+ Stable BBB+ Stable BBB+  Credit	BBB+ Stable BBB+ Stable BBB+  Credit
+Disbursements	Disbursements
+Infrastructure Gas Utilities	Infrastructure Gas Utilities
+Dividends	Dividends
+The Finance and Risk Management Committee of the Board of Directors	The Finance and Risk Management Committee of the Board of Directors
+Hedging Strategies	Hedging Strategies
+Mark-to	Mark-to
+Foreign Currency Exchange	Foreign Currency Exchange
+Credit Risk  Credit	Credit Risk  Credit
+VIE	VIE
+Nuclear Decommissioning Trust	Nuclear Decommissioning Trust
+Internal Revenue Code	Internal Revenue Code
+Financial Statements	Financial Statements
+Coal Combustion Residuals	Coal Combustion Residuals
+Coal Ash Act  AROs	Coal Ash Act  AROs
+Duke Energy Progress Consolidated Balance Sheets	Duke Energy Progress Consolidated Balance Sheets
+The Coal Ash Act	The Coal Ash Act
+Buck Steam Station	Buck Steam Station
+Allen	Allen
+Belews Creek	Belews Creek
+Rogers	Rogers
+Marshall	Marshall
+Mayo	Mayo
+North Carolina House	North Carolina House
+Legislation	Legislation
+Global Climate Change and Regulation	Global Climate Change and Regulation
+Biden	Biden
+Paris	Paris
+Duke 2  Energy Progress’	Duke 2  Energy Progress’
+HB 951	HB 951
+Physical Impacts of Climate Change	Physical Impacts of Climate Change
+New Accounting Standards  See	New Accounting Standards  See
+See “Management’s Discussion and Analysis of Results of Operations and Financial Condition	See “Management’s Discussion and Analysis of Results of Operations and Financial Condition
+Consolidated Financial Statements	Consolidated Financial Statements
+Quarterly Financial Data	Quarterly Financial Data
+Duke Energy Corporation  Opinion	Duke Energy Corporation  Opinion
+Company	Company
+Internal Control — Integrated Framework	Internal Control — Integrated Framework
+PCAOB	PCAOB
+Commissions	Commissions
+/s/ Deloitte & Touche LLP	/s/ Deloitte & Touche LLP
+DUKE ENERGY CORPORATION CONSOLIDATED	DUKE ENERGY CORPORATION CONSOLIDATED
+Nonregulated	Nonregulated
+Basic Diluted  See Notes to	Basic Diluted  See Notes to
+OPEB	OPEB
+DUKE ENERGY CORPORATION CONSOLIDATED BALANCE	DUKE ENERGY CORPORATION CONSOLIDATED BALANCE
+Inventory Regulatory	Inventory Regulatory
+Property, Plant and Equipment Cost	Property, Plant and Equipment Cost
+Taxes accrued Interest	Taxes accrued Interest
+Liabilities	Liabilities
+Commitments and Contingencies Equity Preferred	Commitments and Contingencies Equity Preferred
+Noncontrolling	Noncontrolling
+Issuance	Issuance
+DUKE ENERGY CORPORATION CONSOLIDATED STATEMENTS	DUKE ENERGY CORPORATION CONSOLIDATED STATEMENTS
+Duke Energy Corporation Stockholders'	Duke Energy Corporation Stockholders'
+Common  Additional  Net	Common  Additional  Net
+Duke Energy Corporation  Paid	Duke Energy Corporation  Paid
+Interests Equity	Interests Equity
+Common	Common
+Distributions	Distributions
+Current Estimated Credit Losses	Current Estimated Credit Losses
+LLC  Opinion	LLC  Opinion
+Commission	Commission
+DUKE ENERGY CAROLINAS	DUKE ENERGY CAROLINAS
+LLC CONSOLIDATED BALANCE	LLC CONSOLIDATED BALANCE
+Notes	Notes
+Commitments and Contingencies Equity	Commitments and Contingencies Equity
+Cash Flow Hedges	Cash Flow Hedges
+Credit Losses	Credit Losses
+South Carolina Public Service Commission	South Carolina Public Service Commission
+Florida Public Service Commission	Florida Public Service Commission
+Commitments and Contingencies Equity Common	Commitments and Contingencies Equity Common
+Total Progress Energy, Inc. stockholder's	Total Progress Energy, Inc. stockholder's
+Equitization	Equitization
+OPEB Adjustments	OPEB Adjustments
+Total Progress Energy, Inc.	Total Progress Energy, Inc.
+LLC CONSOLIDATED STATEMENTS	LLC CONSOLIDATED STATEMENTS
+Commitments and Contingencies Equity Member's	Commitments and Contingencies Equity Member's
+737  $	737  $
+INC	INC
+CONSOLIDATED	CONSOLIDATED
+Receivables Receivables	Receivables Receivables
+Piedmont Natural Gas Company, Inc.  Opinion	Piedmont Natural Gas Company, Inc.  Opinion
+Registrant Duke Energy	Registrant Duke Energy
+Carolinas Progress Energy Duke Energy Progress Duke Energy	Carolinas Progress Energy Duke Energy Progress Duke Energy
+Progress Energy's	Progress Energy's
+Nature of Operations and Basis of Consolidation  Duke Energy	Nature of Operations and Basis of Consolidation  Duke Energy
+Duke Energy  Accrued	Duke Energy  Accrued
+Duke Energy Florida Customer	Duke Energy Florida Customer
+Duke Energy Ohio  Gas Storage Collateral	Duke Energy Ohio  Gas Storage Collateral
+Discontinued Operations  Location	Discontinued Operations  Location
+Consolidated Statements of Operations	Consolidated Statements of Operations
+Consolidated Balance Sheets	Consolidated Balance Sheets
+Progress Energy  Duke Energy Progress  Duke Energy Florida	Progress Energy  Duke Energy Progress  Duke Energy Florida
+Progress Energy  Duke Energy Progress	Progress Energy  Duke Energy Progress
+Coal Natural	Coal Natural
+Energy Indiana	Energy Indiana
+Piedmont 12	Piedmont 12
+FV-NI	FV-NI
+AFS	AFS
+Goodwill  Duke Energy	Goodwill  Duke Energy
+RECs are	RECs are
+Long-Lived Asset	Long-Lived Asset
+Property, Plant and Equipment  Property	Property, Plant and Equipment  Property
+Regulatory	Regulatory
+Property, Plant and Equipment	Property, Plant and Equipment
+ROU	ROU
+Nuclear Fuel  Nuclear	Nuclear Fuel  Nuclear
+Fuel	Fuel
+ARO	ARO
+Program	Program
+Energy Progress  Duke Energy	Energy Progress  Duke Energy
+Progress Energy  Duke Energy	Progress Energy  Duke Energy
+Piedmont 4  100	Piedmont 4  100
+Captive Insurance Reserves  Duke Energy	Captive Insurance Reserves  Duke Energy
+See Notes 4 and 5	See Notes 4 and 5
+C-Corporations	C-Corporations
+Operating Revenues and Property	Operating Revenues and Property
+Unappropriated	Unappropriated
+New Accounting Standards	New Accounting Standards
+Disposal Groups	Disposal Groups
+Consolidated Statements	Consolidated Statements
+The Commercial Renewables Disposal Groups'	The Commercial Renewables Disposal Groups'
+Consolidated Statements of Operations and Comprehensive Income	Consolidated Statements of Operations and Comprehensive Income
+RECs	RECs
+Duke Energy Indiana Holdco	Duke Energy Indiana Holdco
+Consolidated Statement of Operations	Consolidated Statement of Operations
+Geographical Information	Geographical Information
+Products and Services	Products and Services
+Retail Electric	Retail Electric
+Wholesale Electric  Retail Natural Gas	Wholesale Electric  Retail Natural Gas
+GU&I.	GU&I.
+Northern Kentucky	Northern Kentucky
+OPEB Storm	OPEB Storm
+Storm	Storm
+Hedge	Hedge
+Lee and Harris COLA	Lee and Harris COLA
+NCEMPA deferrals Nuclear deferral Deferred	NCEMPA deferrals Nuclear deferral Deferred
+COR	COR
+Regulatory Liabilities Net	Regulatory Liabilities Net
+OPEB DOE Settlement Provision	OPEB DOE Settlement Provision
+Hurricane Florence	Hurricane Florence
+Duke Energy Ohio Gas	Duke Energy Ohio Gas
+DSM/EE	DSM/EE
+DSM	DSM
+NCEMPA	NCEMPA
+Propane Caverns	Propane Caverns
+East End	East End
+West End	West End
+DOE Settlement	DOE Settlement
+Duke Energy and Progress Energy	Duke Energy and Progress Energy
+Cinergy	Cinergy
+Duke Energy Ohio	Duke Energy Ohio
+Duke Energy Progress  Hurricane	Duke Energy Progress  Hurricane
+Ian	Ian
+Energy Solutions	Energy Solutions
+Carolinas Carbon Plan	Carolinas Carbon Plan
+S. 1077	S. 1077
+Senate	Senate
+ORS	ORS
+Duke Energy Carolinas  Regulatory Assets	Duke Energy Carolinas  Regulatory Assets
+Lee COLA AMI Customer	Lee COLA AMI Customer
+OPEB Provision	OPEB Provision
+South  Carolina	South  Carolina
+Oconee Nuclear Station Subsequent License Renewal  On	Oconee Nuclear Station Subsequent License Renewal  On
+SLR	SLR
+2033	2033
+Beyond Nuclear	Beyond Nuclear
+Sierra Club	Sierra Club
+NEPA	NEPA
+ASLB	ASLB
+Florida Power	Florida Power
+Turkey Point	Turkey Point
+Generic Environmental Impact Statement	Generic Environmental Impact Statement
+EIS	EIS
+ACRS	ACRS
+SER	SER
+Duke Energy Progress  Regulatory Assets	Duke Energy Progress  Regulatory Assets
+DSM/EE NCEMPA deferrals Nuclear	DSM/EE NCEMPA deferrals Nuclear
+North Carolina Electric Membership Corporation	North Carolina Electric Membership Corporation
+FPA	FPA
+Duke Energy Florida  Regulatory Assets	Duke Energy Florida  Regulatory Assets
+OPEB Nuclear	OPEB Nuclear
+AMI Customer	AMI Customer
+OPC	OPC
+PCS Phosphate	PCS Phosphate
+NUCOR Steel	NUCOR Steel
+Florida, Inc.	Florida, Inc.
+Parties	Parties
+Crystal River Units	Crystal River Units
+Electric Vehicle Charging Station Program	Electric Vehicle Charging Station Program
+Duke Energy Florida’s	Duke Energy Florida’s
+Vision Florida	Vision Florida
+Clean Energy Connection	Clean Energy Connection
+LULAC	LULAC
+The Supreme Court	The Supreme Court
+Duke Energy Ohio  Regulatory Assets	Duke Energy Ohio  Regulatory Assets
+707	707
+2083	2083
+Duke Energy Ohio Electric Base	Duke Energy Ohio Electric Base
+Distribution Capital Investment Rider	Distribution Capital Investment Rider
+The Ohio Consumers' Counsel	The Ohio Consumers' Counsel
+OCC	OCC
+Energy Efficiency Cost Recovery	Energy Efficiency Cost Recovery
+Duke Energy Ohio Natural Gas Base Rate Case  Duke Energy	Duke Energy Ohio Natural Gas Base Rate Case  Duke Energy
+Capital Expenditure Program Rider	Capital Expenditure Program Rider
+Duke Energy Ohio’s	Duke Energy Ohio’s
+A Stipulation and Recommendation	A Stipulation and Recommendation
+The Stipulation and Recommendation	The Stipulation and Recommendation
+Interstate Gas Supply, Inc.	Interstate Gas Supply, Inc.
+IGS	IGS
+The Retail Energy Supply Association	The Retail Energy Supply Association
+RESA	RESA
+Midwest Propane Caverns  Duke Energy	Midwest Propane Caverns  Duke Energy
+Duke Energy Kentucky Electric Base	Duke Energy Kentucky Electric Base
+Woodsdale	Woodsdale
+EV	EV
+Duke Energy Indiana  Regulatory Assets	Duke Energy Indiana  Regulatory Assets
+OPEB Hedge	OPEB Hedge
+The Indiana Court of Appeals	The Indiana Court of Appeals
+OUCC	OUCC
+The Indiana Supreme Court	The Indiana Supreme Court
+IDEM	IDEM
+Oc	Oc
+Piedmont  Regulatory Assets	Piedmont  Regulatory Assets
+OPEB Vacation	OPEB Vacation
+Tennessee Annual Review Mechanism	Tennessee Annual Review Mechanism
+ARM	ARM
+Atlantic Coast Pipeline	Atlantic Coast Pipeline
+Board of Directors	Board of Directors
+See Notes 8 and 13	See Notes 8 and 13
+Allen Steam Station Unit 1	Allen Steam Station Unit 1
+Cliffside Unit	Cliffside Unit
+Marshall Units	Marshall Units
+Mayo Unit	Mayo Unit
+New Source Review	New Source Review
+CONTINGENCIES  INSURANCE  General Insurance	CONTINGENCIES  INSURANCE  General Insurance
+Nuclear Insurance	Nuclear Insurance
+Catawba reimburse Duke Energy Carolinas	Catawba reimburse Duke Energy Carolinas
+Harris.	Harris.
+DECON	DECON
+The U.S. Congress	The U.S. Congress
+Excess Liability Program	Excess Liability Program
+CONTINGENCIES  Nuclear Property and Accidental Outage Coverage	CONTINGENCIES  Nuclear Property and Accidental Outage Coverage
+Nuclear Electric Insurance Limited	Nuclear Electric Insurance Limited
+NEIL	NEIL
+Accidental Outage	Accidental Outage
+McGuire, Harris	McGuire, Harris
+Michael Johnson	Michael Johnson
+ERCOT	ERCOT
+TDUs	TDUs
+Court	Court
+TDU	TDU
+MDL	MDL
+Duke Energy Renewables, LLC	Duke Energy Renewables, LLC
+Ruben Villano	Ruben Villano
+Eden	Eden
+Durham County Superior Court	Durham County Superior Court
+NTE	NTE
+Rockingham County	Rockingham County
+Mecklenburg County Superior Court	Mecklenburg County Superior Court
+LGIA	LGIA
+Office of Enforcement	Office of Enforcement
+Notice of Appeal	Notice of Appeal
+Duke Energy Florida  Spent	Duke Energy Florida  Spent
+Coal Ash Basin Closure Plan Appeal	Coal Ash Basin Closure Plan Appeal
+Hoosier Environmental Council	Hoosier Environmental Council
+Petition for Administrative Review	Petition for Administrative Review
+Gallagher	Gallagher
+HEC	HEC
+Superior Court	Superior Court
+North Ash Pond	North Ash Pond
+Primary Pond Ash Fill	Primary Pond Ash Fill
+Motion	Motion
+Coal Ash Insurance Coverage Litigation	Coal Ash Insurance Coverage Litigation
+Indiana Superior Court	Indiana Superior Court
+Litigation and Legal Proceedings	Litigation and Legal Proceedings
+Power  Duke Energy Progress	Power  Duke Energy Progress
+CONTINGENCIES  Gas Supply and Capacity Contracts  Duke Energy	CONTINGENCIES  Gas Supply and Capacity Contracts  Duke Energy
+LEASES	LEASES
+Finance	Finance
+Duke Energy Florida  $	Duke Energy Florida  $
+Progress Energy 155	Progress Energy 155
+Piedmont 6	Piedmont 6
+Piedmont 4	Piedmont 4
+Liabilities Current	Liabilities Current
+Classification  Operating	Classification  Operating
+Progress Energy  Duke Energy Progress  Duke Energy	Progress Energy  Duke Energy Progress  Duke Energy
+Piedmont  Year Ended December 31	Piedmont  Year Ended December 31
+Energy Carolinas	Energy Carolinas
+Fair	Fair
+Unamortized	Unamortized
+Energy Indiana First Mortgage Bonds	Energy Indiana First Mortgage Bonds
+Energy Progress Duke Energy	Energy Progress Duke Energy
+323	323
+Issuance Date Unsecured	Issuance Date Unsecured
+Duke Energy  Duke Energy (Parent	Duke Energy  Duke Energy (Parent
+Energy Florida  $  1,150  $  Duke Energy	Energy Florida  $  1,150  $  Duke Energy
+Duke Energy (Parent	Duke Energy (Parent
+Duke Energy Florida Term Loan Facility	Duke Energy Florida Term Loan Facility
+Consolidated Balance Sheet	Consolidated Balance Sheet
+Money Pool and Intercompany Credit Agreements	Money Pool and Intercompany Credit Agreements
+GUARANTEES	GUARANTEES
+Spectra Energy Capital, LLC	Spectra Energy Capital, LLC
+Spectra Capital	Spectra Capital
+JOINT OWNERSHIP OF GENERATING	JOINT OWNERSHIP OF GENERATING
+W.S. Lee CC	W.S. Lee CC
+Indiana Gibson	Indiana Gibson
+Ownership Interest  Property, Plant and Equipment  Accumulated Depreciation	Ownership Interest  Property, Plant and Equipment  Accumulated Depreciation
+Construction Work in Progress	Construction Work in Progress
+Nuclear Decommissioning Liability  AROs	Nuclear Decommissioning Liability  AROs
+Energy Progress  Nuclear Operating Licenses	Energy Progress  Nuclear Operating Licenses
+Ash Impoundments	Ash Impoundments
+ARO Liability Rollforward	ARO Liability Rollforward
+Regulated  Electric	Regulated  Electric
+Plant	Plant
+Nuclear fuel Equipment Construction	Nuclear fuel Equipment Construction
+Progress Energy  Duke Energy Progress  Duke Energy Florida  $	Progress Energy  Duke Energy Progress  Duke Energy Florida  $
+710	710
+320  18,121	320  18,121
+Duke  Energy Progress	Duke  Energy Progress
+The Progress Energy	The Progress Energy
+GOODWILL	GOODWILL
+Progress Energy  Progress Energy's	Progress Energy  Progress Energy's
+Goodwill Impairment Testing  Duke Energy	Goodwill Impairment Testing  Duke Energy
+INTANGIBLE	INTANGIBLE
+Progress Energy 5	Progress Energy 5
+UNCONSOLIDATED AFFILIATES	UNCONSOLIDATED AFFILIATES
+UNCONSOLIDATED AFFILIATES  EQUITY METHOD INVESTMENTS  Investments	UNCONSOLIDATED AFFILIATES  EQUITY METHOD INVESTMENTS  Investments
+Infrastructure  Pipeline Investments	Infrastructure  Pipeline Investments
+Florida Power and Light	Florida Power and Light
+Storage Facilities  Piedmont	Storage Facilities  Piedmont
+LNG	LNG
+Renewable Natural Gas Investments	Renewable Natural Gas Investments
+Sustain T&W	Sustain T&W
+SustainRNG	SustainRNG
+Sustain Liberty	Sustain Liberty
+UNCONSOLIDATED	UNCONSOLIDATED
+S-X	S-X
+Duke Energy Carolinas Corporate	Duke Energy Carolinas Corporate
+JDA	JDA
+Progress Energy Corporate	Progress Energy Corporate
+JDA expense Intercompany	JDA expense Intercompany
+Duke Energy Florida Corporate	Duke Energy Florida Corporate
+Duke Energy Indiana Corporate	Duke Energy Indiana Corporate
+Piedmont Corporate	Piedmont Corporate
+HEDGING  Duke Energy Carolinas  Progress Energy  Duke Energy Progress  Duke Energy	HEDGING  Duke Energy Carolinas  Progress Energy  Duke Energy Progress  Duke Energy
+Treasury	Treasury
+HEDGING	HEDGING
+Undesignated Contracts  Undesignated	Undesignated Contracts  Undesignated
+Undesignated	Undesignated
+COMMODITY PRICE RISK	COMMODITY PRICE RISK
+HEDGING  Electricity	HEDGING  Electricity
+Fair Value Hedges	Fair Value Hedges
+HEDGING  Derivative Liabilities	HEDGING  Derivative Liabilities
+LIABILITIES  $  $  $  $ $  Duke Energy  Duke Energy Carolinas  Progress Energy  Duke Energy Progress  Duke Energy	LIABILITIES  $  $  $  $ $  Duke Energy  Duke Energy Carolinas  Progress Energy  Duke Energy Progress  Duke Energy
+HEDGING  Derivative Assets	HEDGING  Derivative Assets
+AFS Securities	AFS Securities
+Equity securities Corporate	Equity securities Corporate
+Municipal	Municipal
+Gross	Gross
+DUKE ENERGY CAROLINAS  $  Years Ended December 31	DUKE ENERGY CAROLINAS  $  Years Ended December 31
+Nasdaq Stock Market	Nasdaq Stock Market
+DUKE ENERGY CAROLINAS  Derivatives	DUKE ENERGY CAROLINAS  Derivatives
+860	860
+UNOBSERVABLE	UNOBSERVABLE
+Investment Type Duke Energy	Investment Type Duke Energy
+Valuation Technique  Unobservable Input  Range  Weighted Average Range	Valuation Technique  Unobservable Input  Range  Weighted Average Range
+CONSOLIDATED VIEs	CONSOLIDATED VIEs
+DERF	DERF
+Duke Energy Florida Project Finance	Duke Energy Florida Project Finance
+DEFPF	DEFPF
+Duke Energy Progress NC Storm Funding, LLC	Duke Energy Progress NC Storm Funding, LLC
+Duke Energy Progress’ Consolidated Balance Sheets	Duke Energy Progress’ Consolidated Balance Sheets
+Duke Energy Natural Gas Investments	Duke Energy Natural Gas Investments
+Duke Energy  Natural Gas Investments	Duke Energy  Natural Gas Investments
+747	747
+Duke Energy Indiana Years Ended December 31	Duke Energy Indiana Years Ended December 31
+REVENUE  Duke Energy	REVENUE  Duke Energy
+GU&I.  Electric Utilities	GU&I.  Electric Utilities
+Progress Energy Duke Energy Progress Duke Energy	Progress Energy Duke Energy Progress Duke Energy
+Total Electric Utilities	Total Electric Utilities
+Total Gas Utilities	Total Gas Utilities
+REVENUE  Year Ended December 31	REVENUE  Year Ended December 31
+Energy Florida  Duke Energy	Energy Florida  Duke Energy
+767	767
+777	777
+Duke Energy Florida  Duke Energy	Duke Energy Florida  Duke Energy
+Piedmont 160	Piedmont 160
+Unbilled	Unbilled
+Basic EPS	Basic EPS
+NCI	NCI
+EDA	EDA
+ATM	ATM
+The Series B Preferred Stock	The Series B Preferred Stock
+Progress  Energy	Progress  Energy
+Duke  Energy Indiana	Duke  Energy Indiana
+The Duke Energy Corporation	The Duke Energy Corporation
+RSU	RSU
+Energ	Energ
+DELPP	DELPP
+MRVA	MRVA
+Components of Net Periodic Pension	Components of Net Periodic Pension
+Piedmont 5  8	Piedmont 5  8
+Piedmont 9   $	Piedmont 9   $
+Service cost Interest	Service cost Interest
+Energy Progress	Energy Progress
+Components of Net Periodic Other Post-Retirement Benefit	Components of Net Periodic Other Post-Retirement Benefit
+Duke Energy 4	Duke Energy 4
+Duke Energy $	Duke Energy $
+Regulatory assets Regulatory	Regulatory assets Regulatory
+Piedmont 10	Piedmont 10
+Health Care Cost Trend Rate  Health	Health Care Cost Trend Rate  Health
+Duke Energy Corporation Master Retirement Trust  Assets	Duke Energy Corporation Master Retirement Trust  Assets
+RCBP	RCBP
+RCBP 401(h	RCBP 401(h
+The Duke Energy Corporation Master Retirement Trust	The Duke Energy Corporation Master Retirement Trust
+Target	Target
+Voluntary Employees' Beneficiary Association	Voluntary Employees' Beneficiary Association
+VEBA	VEBA
+401(h	401(h
+Non-U.S.	Non-U.S.
+NASDAQ	NASDAQ
+Investments	Investments
+Duke Energy Corporation Master Retirement Trust	Duke Energy Corporation Master Retirement Trust
+EMPLOYEE SAVINGS PLANS	EMPLOYEE SAVINGS PLANS
+Roth	Roth
+Bill 105	Bill 105
+SB 105	SB 105
+CAA	CAA
+Federal State	Federal State
+Duke Energy  Progress	Duke Energy  Progress
+General Business Credits Federal	General Business Credits Federal
+Federal NOLs	Federal NOLs
+Post	Post
+Piedmont 19  11	Piedmont 19  11
+Notes 2	Notes 2
+QUARTERLY FINANCIAL DATA	QUARTERLY FINANCIAL DATA
+UNAUDITED	UNAUDITED
+DUKE ENERGY	DUKE ENERGY
+Disclosure Controls and Procedures  Disclosure	Disclosure Controls and Procedures  Disclosure
+Duke Energy Corporation  Opinion on Internal Control over Financial Reporting	Duke Energy Corporation  Opinion on Internal Control over Financial Reporting
+COSO	COSO
+/s/ Deloitte	/s/ Deloitte
+Touche LLP	Touche LLP
+DIRECTORS	DIRECTORS
+Equity Compensation Plan Information	Equity Compensation Plan Information
+PRINCIPAL ACCOUNTING	PRINCIPAL ACCOUNTING
+Deloitte	Deloitte
+Audit Committee	Audit Committee
+Consolidated Statements of Comprehensive Income for the Years Ended December 31,	Consolidated Statements of Comprehensive Income for the Years Ended December 31,
+Consolidated Statements of Changes in Equity for	Consolidated Statements of Changes in Equity for
+Consolidated Financial Statements Consolidated Statements of Operations and Comprehensive Income for	Consolidated Financial Statements Consolidated Statements of Operations and Comprehensive Income for
+Energy Florida	Energy Florida
+Carolinas  X  X  X  X  X  X  X  X  Exhibit Number  2.1	Carolinas  X  X  X  X  X  X  X  X  Exhibit Number  2.1
+Diamond Acquisition Corporation	Diamond Acquisition Corporation
+Duke Energy Corporation's	Duke Energy Corporation's
+Piedmont Natural Gas Company	Piedmont Natural Gas Company
+Forest Subsidiary, Inc.	Forest Subsidiary, Inc.
+The Cincinnati Gas & Electric Company	The Cincinnati Gas & Electric Company
+Duke Energy Ohio, Inc.'s	Duke Energy Ohio, Inc.'s
+Organization of Duke Energy Indiana, LLC	Organization of Duke Energy Indiana, LLC
+Limited Liability Company Operating Agreement	Limited Liability Company Operating Agreement
+CP&L Energy, Inc.	CP&L Energy, Inc.
+Piedmont  Progress Energy  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X                                                                                                                                                                                                                                                                                                                        X  X  X  X  X  X  X  X  X  X  X  X  X  X  Articles of Incorporation of Progress Energy, Inc.	Piedmont  Progress Energy  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X                                                                                                                                                                                                                                                                                                                        X  X  X  X  X  X  X  X  X  X  X  X  X  X  Articles of Incorporation of Progress Energy, Inc.
+Duke Energy Florida, Inc.	Duke Energy Florida, Inc.
+Certificate of Designations	Certificate of Designations
+Certificate of Designation	Certificate of Designation
+Description of Registered Securities	Description of Registered Securities
+333- 233896-01	333- 233896-01
+333- 233896-02	333- 233896-02
+333- 233896-03	333- 233896-03
+333- 233896-05	333- 233896-05
+333- 233896-06	333- 233896-06
+The Bank of New York Mellon Trust Company	The Bank of New York Mellon Trust Company
+N.A.	N.A.
+First Supplemental Indenture	First Supplemental Indenture
+Second Supplemental Indenture	Second Supplemental Indenture
+Third Supplemental Indenture	Third Supplemental Indenture
+Fourth Supplemental Indenture	Fourth Supplemental Indenture
+4.1.6	4.1.6
+Fifth Supplemental Indenture	Fifth Supplemental Indenture
+Sixth Supplemental Indenture	Sixth Supplemental Indenture
+Seventh Supplemental Indenture	Seventh Supplemental Indenture
+Eighth Supplemental Indenture	Eighth Supplemental Indenture
+Ninth Supplemental Indenture	Ninth Supplemental Indenture
+Tenth Supplemental Indenture	Tenth Supplemental Indenture
+Eleventh Supplemental Indenture	Eleventh Supplemental Indenture
+Twelfth Supplemental Indenture	Twelfth Supplemental Indenture
+Thirteenth Supplemental Indenture	Thirteenth Supplemental Indenture
+Seventeenth Supplemental Indenture	Seventeenth Supplemental Indenture
+Eighteenth Supplemental Indenture	Eighteenth Supplemental Indenture
+Registration Statement on Form 8-A	Registration Statement on Form 8-A
+The Bank of  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X                                                                                                                                                  2008	The Bank of  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X                                                                                                                                                  2008
+JPMorgan Chase Bank	JPMorgan Chase Bank
+The Chase Manhattan Bank	The Chase Manhattan Bank
+Post-Effective Amendment No	Post-Effective Amendment No
+Registration Statement on Form S-3	Registration Statement on Form S-3
+Guaranty Trust Company of New York	Guaranty Trust Company of New York
+Form S-1	Form S-1
+Instrument of Resignation	Instrument of Resignation
+Successor Trustee	Successor Trustee
+Twentieth Supplemental Indenture	Twentieth Supplemental Indenture
+Sixtieth Supplemental Indenture	Sixtieth Supplemental Indenture
+Ninetieth Supplemental Indenture	Ninetieth Supplemental Indenture
+Carolina Power & Light Company	Carolina Power & Light Company
+The Bank of New York Mellon	The Bank of New York Mellon
+Irving Trust Company	Irving Trust Company
+Frederick G. Herbst	Frederick G. Herbst
+Tina D. Gonzalez	Tina D. Gonzalez
+Trustees	Trustees
+Fifth Supplemental Indentures	Fifth Supplemental Indentures
+64189	64189
+Fourteenth Supplemental Indenture	Fourteenth Supplemental Indenture
+43439	43439
+Thirtieth Supplemental Indenture	Thirtieth Supplemental Indenture
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X	X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+4.4.56	4.4.56
+Fortieth Supplemental Indenture	Fortieth Supplemental Indenture
+Fiftieth Supplemental Indenture	Fiftieth Supplemental Indenture
+60014	60014
+Duke Energy Progress’ Registration Statement on Form S-3	Duke Energy Progress’ Registration Statement on Form S-3
+Carolina Power & Light Company First Mortgage Bond	Carolina Power & Light Company First Mortgage Bond
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  4.4.64	X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  4.4.64
+Duke Energy Progress’ Annual Report on Form 10-K	Duke Energy Progress’ Annual Report on Form 10-K
+Seventieth Supplemental Indenture	Seventieth Supplemental Indenture
+Carolina Power & Light Company (d/b	Carolina Power & Light Company (d/b
+Progress Energy Carolinas, Inc.	Progress Energy Carolinas, Inc.
+Curr	Curr
+Eightieth Supplemental Indenture	Eightieth Supplemental Indenture
+Duke Energy Progress, Inc.	Duke Energy Progress, Inc.
+Christie Leppert	Christie Leppert
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X	X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+Duke Energy Progress, Inc.'s	Duke Energy Progress, Inc.'s
+Florida Power Corporation	Florida Power Corporation
+Guaranty Trust Company	Guaranty Trust Company
+New York	New York
+The Florida National Bank of Jacksonville	The Florida National Bank of Jacksonville
+Duke Energy Florida, Inc.'s	Duke Energy Florida, Inc.'s
+Duke Energy Florida Power Corporation	Duke Energy Florida Power Corporation
+Progress Energy Florida, Inc.	Progress Energy Florida, Inc.
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X	X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+National Association	National Association
+J.P. Morgan Trust Company	J.P. Morgan Trust Company
+333- 155418	333- 155418
+Duke Energy Ohio, Inc.’s	Duke Energy Ohio, Inc.’s
+PSI Energy, Inc.	PSI Energy, Inc.
+Cinergy Corp.’s	Cinergy Corp.’s
+Duke  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X	Duke  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+4.13.12	4.13.12
+Deutsche Bank National Trust Company	Deutsche Bank National Trust Company
+Duke Energy Indiana, LLC’s	Duke Energy Indiana, LLC’s
+Duke Energy Indiana, Inc.	Duke Energy Indiana, Inc.
+The Dayton Power and Light Company	The Dayton Power and Light Company
+Cinergy Corp.	Cinergy Corp.
+Citibank	Citibank
+Registration Statement on Form S-3-ASR	Registration Statement on Form S-3-ASR
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  4.29  4.30	X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  4.29  4.30
+Registration Statement on Form	Registration Statement on Form
+The Bank of New York Trust Company	The Bank of New York Trust Company
+Piedmont Electric Membership Corporation	Piedmont Electric Membership Corporation
+Rutherford Electric Membership Corporation	Rutherford Electric Membership Corporation
+Blue Ridge Electric Membership Corporation	Blue Ridge Electric Membership Corporation
+Saluda River Electric Cooperative, Inc.	Saluda River Electric Cooperative, Inc.
+Seller	Seller
+Purchaser	Purchaser
+Georgia Natural Gas Company	Georgia Natural Gas Company
+Piedmont Energy Company	Piedmont Energy Company
+Piedmont ACP Company, LLC	Piedmont ACP Company, LLC
+Dominion Atlantic Coast Pipeline, LLC	Dominion Atlantic Coast Pipeline, LLC
+Conveyance and Assignment Agreement	Conveyance and Assignment Agreement
+Procurement and Construction Management Agreement	Procurement and Construction Management Agreement
+Bechtel Power Corporation	Bechtel Power Corporation
+Duke Ventures	Duke Ventures
+Crescent Resources, LLC	Crescent Resources, LLC
+Morgan Stanley Real Estate Fund V U.S. L.P.	Morgan Stanley Real Estate Fund V U.S. L.P.
+Morgan Stanley Real Estate Fund V Special	Morgan Stanley Real Estate Fund V Special
+L.P.	L.P.
+Morgan Stanley Real Estate Investors V U.S.	Morgan Stanley Real Estate Investors V U.S.
+MSP Real Estate Fund V	MSP Real Estate Fund V
+Morgan Stanley Strategic Investments, Inc.	Morgan Stanley Strategic Investments, Inc.
+Pioneer Transmission, LLC	Pioneer Transmission, LLC
+Duke Energy Corporation Directors'	Duke Energy Corporation Directors'
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X	X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+Duke Energy Kentucky, Inc.	Duke Energy Kentucky, Inc.
+Carolina Power and Light Company d/b	Carolina Power and Light Company d/b
+Borrowers	Borrowers
+Wells Fargo Bank	Wells Fargo Bank
+Bank of America	Bank of America
+The Royal Bank of Scotland plc	The Royal Bank of Scotland plc
+Co-Syndication Agents and	Co-Syndication Agents and
+Bank of China	Bank of China
+New York Branch	New York Branch
+Barclays Bank PLC	Barclays Bank PLC
+Credit Suisse AG	Credit Suisse AG
+Cayman Islands Branch	Cayman Islands Branch
+UBS Securities LLC	UBS Securities LLC
+Co-Documentation Agents	Co-Documentation Agents
+Consent	Consent
+No.4	No.4
+Swingline Lender	Swingline Lender
+Duke Energy Corporation’s	Duke Energy Corporation’s
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X X  X  X X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  10.26	X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X X  X  X X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  10.26
+The North Carolina Department of Environmental Quality	The North Carolina Department of Environmental Quality
+Duke Energy Carolinas Summary of Partial Settlement	Duke Energy Carolinas Summary of Partial Settlement
+Coal Combustion Residuals Settlement Agreement	Coal Combustion Residuals Settlement Agreement
+General's Office	General's Office
+Epson Investment PTE. LTD	Epson Investment PTE. LTD
+Elliott Investment Management L.P.	Elliott Investment Management L.P.
+Elliott International	Elliott International
+Construction and Ownership Agreement	Construction and Ownership Agreement
+North Carolina Eastern Municipal Power Agency	North Carolina Eastern Municipal Power Agency
+Purchase,	Purchase,
+Florida Power Corporation d/b	Florida Power Corporation d/b
+PEF	PEF
+Southern Natural Gas Company	Southern Natural Gas Company
+Florida Gas Transmission Company	Florida Gas Transmission Company
+BG LNG Services, LLC	BG LNG Services, LLC
+BG	BG
+FGT	FGT
+Firm Transportation Service Agreement	Firm Transportation Service Agreement
+X  X  X  X  10.39	X  X  X  X  10.39
+Westinghouse Electric Company LLC	Westinghouse Electric Company LLC
+Stone & Webster, Inc.	Stone & Webster, Inc.
+AP1000	AP1000
+Lynn J. Good	Lynn J. Good
+Duke Energy Corporation Executive Savings Plan	Duke Energy Corporation Executive Savings Plan
+Duke Energy Business Services, LLC	Duke Energy Business Services, LLC
+Douglas F Esamann	Douglas F Esamann
+Duke Energy SAM	Duke Energy SAM
+Duke Energy Commercial Enterprise, Inc.	Duke Energy Commercial Enterprise, Inc.
+Dynegy Resource	Dynegy Resource
+Duke Energy Corpora	Duke Energy Corpora
+Accelerated Stock Repurchase Program	Accelerated Stock Repurchase Program
+Goldman, Sachs & Co.	Goldman, Sachs & Co.
+Dan River Grand Jury Settlement	Dan River Grand Jury Settlement
+Duke Energy International Group S.à.r.l	Duke Energy International Group S.à.r.l
+Duke Energy International Brazil Holdings S.à.r.l	Duke Energy International Brazil Holdings S.à.r.l
+China Three Gorges	China Three Gorges
+Luxembourg	Luxembourg
+Duke Energy Brazil Holdings II	Duke Energy Brazil Holdings II
+C.V.	C.V.
+Duke Energy International Uruguay Investments	Duke Energy International Uruguay Investments
+SRL	SRL
+Duke Energy International España Holdings SL	Duke Energy International España Holdings SL
+Duke Energy International Investments	Duke Energy International Investments
+ISQ Enerlam Aggregator	ISQ Enerlam Aggregator
+Enerlam	Enerlam
+UK	UK
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  10.54  $1,000,000,000	X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  10.54  $1,000,000,000
+The Bank of Nova Scotia	The Bank of Nova Scotia
+PNC Bank	PNC Bank
+Sumitomo Mitsui Banking Corporation	Sumitomo Mitsui Banking Corporation
+TD Bank	TD Bank
+C0-Syndication Agents	C0-Syndication Agents
+BNP Paribas	BNP Paribas
+Santander Bank	Santander Bank
+U.S. Bank N.A.	U.S. Bank N.A.
+Co-Syndication Agents	Co-Syndication Agents
+U.S. Bank	U.S. Bank
+Current Report on Form 8-K	Current Report on Form 8-K
+Syndication Agents	Syndication Agents
+U.S> Bank	U.S> Bank
+Wells Fargo Securities, LLC	Wells Fargo Securities, LLC
+Joint Bookrunner	Joint Bookrunner
+Borrower	Borrower
+Truist Bank	Truist Bank
+Truist Securities, Inc.	Truist Securities, Inc.
+Mizuho Bank Ltd.	Mizuho Bank Ltd.
+Joint Lead Arrangers	Joint Lead Arrangers
+Sole Bookrunner	Sole Bookrunner
+Constitution Pipeline Company, LLC	Constitution Pipeline Company, LLC
+Williams Partners Operating LLC	Williams Partners Operating LLC
+Cabot Pipeline Holdings LLC	Cabot Pipeline Holdings LLC
+Piedmont Constitution Pipeline Company, LLC	Piedmont Constitution Pipeline Company, LLC
+Capitol Energy Ventures Corp.	Capitol Energy Ventures Corp.
+SouthStar Energy Services LLC	SouthStar Energy Services LLC
+Limited Liability Company Agreement	Limited Liability Company Agreement
+Duke  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X	Duke  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+Duke Energy ACP	Duke Energy ACP
+Maple Enterprise Holdings, Inc.	Maple Enterprise Holdings, Inc.
+Piedmont Natural Gas Company Inc.	Piedmont Natural Gas Company Inc.
+Matrix Service, Inc.	Matrix Service, Inc.
+ADP CR3, LLC	ADP CR3, LLC
+ADP SF1, LLC	ADP SF1, LLC
+CGA	CGA
+CK 525	CK 525
+Barclays Capital, Inc.	Barclays Capital, Inc.
+BofA Securities, Inc.	BofA Securities, Inc.
+Credit Suisse Securities (USA) LLC	Credit Suisse Securities (USA) LLC
+Mizuho Securities USA LLC	Mizuho Securities USA LLC
+Scotia Capital (USA) Inc.	Scotia Capital (USA) Inc.
+SMBC Nikko Securities America, Inc.	SMBC Nikko Securities America, Inc.
+Barclays Capital Inc.	Barclays Capital Inc.
+BofA Securities Inc.	BofA Securities Inc.
+Mizuho Markets Americas LLC	Mizuho Markets Americas LLC
+Subsidiaries Consent of Independent Registered Public Accounting Firm	Subsidiaries Consent of Independent Registered Public Accounting Firm
+Consent of Independent Registered Public Accounting Firm	Consent of Independent Registered Public Accounting Firm
+X  X  X  X X  X  X  X  X  X	X  X  X  X X  X  X  X  X  X
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X	X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  The	X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  X  X  X  X X X X X X  The
+E-1	E-1
+Lynn J. Good Chair	Lynn J. Good Chair
+Lynn J. Good  Chair	Lynn J. Good  Chair
+Brian D. Savoy  Executive	Brian D. Savoy  Executive
+Cynthia S. Lee	Cynthia S. Lee
+Derrick Burks	Derrick Burks
+Annette K. Clayton	Annette K. Clayton
+Theodore F. Craver	Theodore F. Craver
+Robert M. Davis	Robert M. Davis
+Caroline D. Dorsa	Caroline D. Dorsa
+W. Roy Dunbar	W. Roy Dunbar
+John T. Herron	John T. Herron
+Idalene F. Kesner	Idalene F. Kesner
+E. Marie McKee	E. Marie McKee
+Michael J. Pacilio	Michael J. Pacilio
+Thomas E. Skains	Thomas E. Skains
+Nicholas C. Fanandakis	Nicholas C. Fanandakis
+William E. Webster	William E. Webster
+Brian D. Savoy	Brian D. Savoy
+SIGNATURES	SIGNATURES
+DUKE ENERGY CAROLINAS, LLC	DUKE ENERGY CAROLINAS, LLC
+Lynn J. Good  Chief Executive	Lynn J. Good  Chief Executive
+Lynn J. Good  /s/	Lynn J. Good  /s/
+M. JAMIL	M. JAMIL
+Dhiaa M. Jamil  /s/ JULIA S. JANSON	Dhiaa M. Jamil  /s/ JULIA S. JANSON
+Julia S. Janson  Date	Julia S. Janson  Date
+SIGNATURES  SIGNATURES  Pursuant	SIGNATURES  SIGNATURES  Pursuant
+Kodwo Ghartey-Tagoe  /s/ LYNN J. GOOD	Kodwo Ghartey-Tagoe  /s/ LYNN J. GOOD
+Lynn J. Good  Date	Lynn J. Good  Date
+SIGNATURES  SIGNATURES	SIGNATURES  SIGNATURES
+Kodwo Ghartey-Tagoe  /s/ R. ALEXANDER GLENN R. Alexander Glenn  /s/ LYNN J. GOOD	Kodwo Ghartey-Tagoe  /s/ R. ALEXANDER GLENN R. Alexander Glenn  /s/ LYNN J. GOOD
+Lynn J. Good  /s/ DHIAA	Lynn J. Good  /s/ DHIAA
+/s/ R. ALEXANDER GLENN R. Alexander Glenn  /s/ LYNN J. GOOD	/s/ R. ALEXANDER GLENN R. Alexander Glenn  /s/ LYNN J. GOOD
+Dhiaa M. Jamil  Date	Dhiaa M. Jamil  Date
+/s/ R. ALEXANDER GLENN R. Alexander Glenn  /s/	/s/ R. ALEXANDER GLENN R. Alexander Glenn  /s/
+Stan Pinegar	Stan Pinegar
+Dhiaa M. Jamil  /s/	Dhiaa M. Jamil  /s/
+Brian D. Savoy  Date	Brian D. Savoy  Date
